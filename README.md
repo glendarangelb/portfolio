@@ -1,46 +1,46 @@
-# 🌐 Meu Portfólio Pessoal
+# 🌐 My Personal Portfolio
 
-Bem-vindo ao meu portfólio pessoal! 👋 Aqui você encontrará uma coleção dos meus projetos, habilidades e um pouco sobre minha jornada como desenvolvedora. Este site foi criado com **HTML**, **CSS** e **JavaScript**, com o objetivo de ser moderno, interativo e de fácil navegação.
+Welcome to my personal portfolio! 👋 Here you will find a collection of my projects, skills, and a bit about my journey as a developer. This site was created with **HTML**, **CSS**, and **JavaScript**, aiming to be modern, interactive, and easy to navigate.
 
-## ✨ Visão Geral
+## ✨ Overview
 
-Este projeto foi desenvolvido para destacar os meus principais trabalhos e competências técnicas, proporcionando uma experiência visual agradável e intuitiva. Além disso, ele serve como uma forma de contato profissional com possíveis parceiros ou empregadores.
+This project was developed to highlight my key works and technical skills, providing a pleasant and intuitive visual experience. Additionally, it serves as a professional contact point for potential partners or employers.
 
-### 🎯 Demonstração
+### 🎯 Demo
 
-- [Link Vercel](#) 
+- [Vercel Link](#)
 
-## 🔥 Funcionalidades
+## 🔥 Features
 
-- **Página inicial** com uma introdução 📄 e links para minhas redes sociais 🔗
-- **Seção de projetos** com descrições e imagens 🖼️ dos trabalhos que desenvolvi
-- **Seção de habilidades**, destacando as tecnologias 🛠️ com as quais tenho experiência
-- **Formulário de contato** 📬 para facilitar a comunicação
-- Efeitos de rolagem suave e animações ✨ para uma navegação envolvente
+- **Homepage** with an introduction 📄 and links to my social media 🔗
+- **Projects section** with descriptions and images 🖼️ of the work I’ve done
+- **Skills section**, highlighting the technologies 🛠️ I have experience with
+- **Contact form** 📬 to facilitate communication
+- Smooth scrolling effects and animations ✨ for an engaging navigation experience
 
-## 💻 Tecnologias Utilizadas
+## 💻 Technologies Used
 
-- **HTML5**: Estruturação do conteúdo 🌍
-- **CSS3**: Estilos e layout 🎨
-  - Animações e transições para dar vida ao site 🎥
-- **JavaScript**: Funcionalidades dinâmicas e interativas ⚙️
-  - Manipulação de DOM para animações e interações
-  - Validação de formulários e feedback para o usuário
+- **HTML5**: Content structure 🌍
+- **CSS3**: Styling and layout 🎨
+  - Animations and transitions to bring the site to life 🎥
+- **JavaScript**: Dynamic and interactive functionalities ⚙️
+  - DOM manipulation for animations and interactions
+  - Form validation and user feedback
 
-## 🔮 Melhorias Futuras
+## 🔮 Future Improvements
 
-- 🌗 **Adicionar suporte a tema escuro/claro** para melhor acessibilidade.
-- 🌍 **Implementar uma versão multilíngue** para alcance global.
+- 🌗 **Add dark/light mode support** for better accessibility.
+- 🌍 **Implement a multilingual version** for global reach.
 
-## 📞 Contato
+## 📞 Contact
 
-Se você quiser saber mais sobre mim ou apenas dizer olá, pode me encontrar em:
+If you'd like to know more about me or just say hello, you can find me at:
 
 - **Email**: glendarangelb@gmail.com 📧
-- **LinkedIn**: [Acesse aqui!](https://www.linkedin.com/in/glendarangel) 💼
-- **GitHub**: [Acesse aqui!](https://github.com/glendarangelb) 👨‍💻
+- **LinkedIn**: [Click here!](https://www.linkedin.com/in/glendarangel) 💼
+- **GitHub**: [Click here!](https://github.com/glendarangelb) 👨‍💻
 
-## 🎓 Informações Acadêmicas
-- **Trabalho realizado para a matéria de Desenvolvimento Web 1**
-- **Professora**: Thereza Gondim
-- **Faculdade**: UniLaSalle RJ 
+## 🎓 Academic Information
+- **Project done for Web Development 1**
+- **Professor**: Thereza Gondim
+- **University**: UniLaSalle - RJ
